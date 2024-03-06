@@ -1,0 +1,22 @@
+.todoContainer{
+  width: 800px;
+  border: 3px solid black;
+  justify-content: center;
+  margin: 50px 25px 25px 25px;
+  padding: 25px 25px 25px 25px;;
+  
+}
+
+
+.todoHeading{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+button{
+  width: -webkit-fill-available;
+}
+
+.TodoItems{
+  padding: 10px;
+}
